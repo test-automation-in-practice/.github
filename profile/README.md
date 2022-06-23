@@ -1,3 +1,3 @@
-# Testautoamtion in Practice
+# Testautomation in Practice
 
 Lorem Ipsum
