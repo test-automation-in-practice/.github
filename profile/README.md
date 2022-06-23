@@ -1,8 +1,6 @@
-Welcome to _Testautomation in Practice_ - a collection of examples and articles on how to write efficient automated tests for different technoloy stacks using state of the art practices and tools.
-These examples are based on real world code that we write as part of our daily work.
+Welcome to _Test Automation in Practice_ - a collection of examples and articles about creating efficient automated tests for various technology stacks using state-of-the-art techniques and tools. These examples are based on real-world code that we write like this as part of our daily work.
 
-Who are "we"?
-We are a group of experts from [**Novatec Consulting GmbH**](https://www.novatec-gmbh.de) dedicated to software quality and the sharing of knowledge.
+Who are "we"? We are a group of experts from [**Novatec Consulting GmbH**](https://www.novatec-gmbh.de) dedicated to software quality and knowledge sharing.
 
 # Content
 
