@@ -5,11 +5,11 @@ Who are "we"? We are a group of experts from [**Novatec Consulting GmbH**](https
 # Content
 
 **Practices**
-  - [Basics of Test Automation](https://github.com/testautomation-in-practice/test-automation-basics)
-  - [Contract Testing](https://github.com/testautomation-in-practice/cnt-contract-testing)
+  - [Basics of Test Automation](https://github.com/test-automation-in-practice/test-automation-basics)
+  - [Contract Testing](https://github.com/test-automation-in-practice/cnt-contract-testing)
 
 **Backend**
-  - [Spring Boot](https://github.com/testautomation-in-practice/cnt-spring-boot)
+  - [Spring Boot](https://github.com/test-automation-in-practice/cnt-spring-boot)
 
 **Frontend**
-  - [Angular](https://github.com/testautomation-in-practice/cnt-angular)
+  - [Angular](https://github.com/test-automation-in-practice/cnt-angular)
