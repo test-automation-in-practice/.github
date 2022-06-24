@@ -5,7 +5,7 @@ Who are "we"? We are a group of experts from [**Novatec Consulting GmbH**](https
 # Content
 
 **Practices**
-  - [Basics](https://github.com/testautomation-in-practice/basics)
+  - [Basics of Test Automation](https://github.com/testautomation-in-practice/test-automation-basics)
   - [Contract Testing](https://github.com/testautomation-in-practice/cnt-contract-testing)
 
 **Backend**
