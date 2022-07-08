@@ -10,6 +10,7 @@ Who are "we"? We are a group of experts from [**Novatec Consulting GmbH**](https
 
 **Backend**
   - [Spring Boot](https://github.com/test-automation-in-practice/cnt-spring-boot)
+  - [Quarkus](https://github.com/test-automation-in-practice/cnt-quarkus)
 
 **Frontend**
   - [Angular](https://github.com/test-automation-in-practice/cnt-angular)
