@@ -9,6 +9,7 @@ Who are "we"? We are a group of experts from [**Novatec Consulting GmbH**](https
   - [Contract Testing](https://github.com/test-automation-in-practice/cnt-contract-testing)
 
 **Backend**
+  - [Micronaut](https://github.com/test-automation-in-practice/cnt-micronaut)
   - [Spring Boot](https://github.com/test-automation-in-practice/cnt-spring-boot)
   - [Quarkus](https://github.com/test-automation-in-practice/cnt-quarkus)
 
