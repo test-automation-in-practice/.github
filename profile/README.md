@@ -16,6 +16,9 @@ Who are "we"? We are a group of experts from [**Novatec Consulting GmbH**](https
 
 - Frontend
   - [Angular](https://github.com/test-automation-in-practice/cnt-angular)
+ 
+**Cloud Platforms**
+ - [AWS](https://github.com/test-automation-in-practice/cnt-platform-aws)
 
 **Deep Dives**
 - [Spring AMQP](https://github.com/test-automation-in-practice/dd-spring-amqp)
